@@ -13,7 +13,7 @@ output:
 <style type="text/css">
 
 body{ /* Normal  */
-      font-size: 22px;
+      font-size: 18px;
   }
   
 p.caption {
@@ -23,7 +23,7 @@ p.caption {
 
 <div class="figure">
 <img src="ZikaRNASeq_files/pictures/zika-virus-in-blood-stream.jpg" alt="Zika Virus in the Blood Steam" width="70%" />
-<p class="caption">Zika Virus in the Blood Steam</p>
+<p class="caption">Zika Virus in the Blood Stream</p>
 </div>
 
 ******
